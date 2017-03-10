@@ -4,4 +4,4 @@ Git is free software.
 Git is free software.
 Git is free software.
 Git is free software.
-Git is a good controller
+Git is not a good controller
